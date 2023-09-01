@@ -44,7 +44,7 @@ const Qualifications = () => {
                                     <div className="qualification_calender">
 
                                         <i className="uil uil-calendar-alt"></i> 2023
-                                        <a href="https://crpytalcoder" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
+                                        <a href="https://github.com/JoshuaDeckard/Joshua_DA_Portfolio" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
                                     </div>       
                             </div>
 
