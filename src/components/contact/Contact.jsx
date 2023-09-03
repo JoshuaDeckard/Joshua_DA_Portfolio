@@ -29,27 +29,26 @@ const Contact = () => {
                             <i className="bx bx-mail-send contact_card-icon"></i>
 
                             <h3 className="contact_card-title">Email</h3>
-                            <span className="contact_card-data">user@gmail.com</span>
+                            <span className="contact_card-data">joshuabdeckard@gmail.com</span>
 
-                            <a href="mailto:exampleemail@gmail.com.com" className="contact_button">Write me <i className="bx bx-right-arrow-alt contact_button-icon"></i></a>
                         </div>
 
                         <div className="contact_card">
                             <i className="bx bxl-whatsapp contact_card-icon"></i>
 
-                            <h3 className="contact_card-title">Whatsapp</h3>
-                            <span className="contact_card-data">999-888-777</span>
+                            <h3 className="contact_card-title">Phone</h3>
+                            <span className="contact_card-data">303-918-2169</span>
 
-                            <a href="https://api/whatsapp.com/send?phone=6221440=Hello, more information!" className="contact_button">Write me <i className="bx bx-right-arrow-alt contact_button-icon"></i></a>
                         </div>
 
                         <div className="contact_card">
-                            <i className="bx bxl-messenger contact_card-icon"></i>
+                            <i className="bx bxl-LinkedIn contact_card-icon"></i>
 
-                            <h3 className="contact_card-title">Messenger</h3>
-                            <span className="contact_card-data">user.fb123</span>
+                            <h3 className="contact_card-title">LinkedIn</h3>
+                            <span className="contact_card-data">Joshua Deckard-Anderson</span>
+                            <a href="https://www.linkedin.com/in/joshua-deckard-anderson-924640237/" className="contact_button">Profile <i className="bx bx-right-arrow-alt contact_button-icon"></i></a>
 
-                            <a href="https://crpytalcoder" className="contact_button">Write me <i className="bx bx-right-arrow-alt contact_button-icon"></i></a>
+
                         </div>
                     </div>
                 </div>

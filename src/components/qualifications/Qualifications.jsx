@@ -99,7 +99,7 @@ const Qualifications = () => {
                                     <span className="qualification_subtitle">Denver - Colorado</span>
                                         <div className="qualification_calender">
                                     <i className="uil uil-calendar-alt"></i> 2023
-                                    <a href="https://crpytalcoder" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
+                                    <a href="https://github.com/JoshuaDeckard/Django-Social-Media-Webapp/blob/main/README.md" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
                                 </div>       
                             </div>  
 
@@ -121,12 +121,12 @@ const Qualifications = () => {
                                 <span className="qualification_line"></span>
                             </div>
                         <div>
-                            <h3 className="qualification_title">Product Designer</h3>
-                                <span className="qualification_subtitle">Microsoft - Spain</span>
+                            <h3 className="qualification_title">CU Denver Student</h3>
+                                <span className="qualification_subtitle">3.91 GPA, Computer Science, Economics</span>
                                     <div className="qualification_calender">
 
-                                        <i className="uil uil-calendar-alt"></i> 2021 - Present
-                                        <a href="https://crpytalcoder" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
+                                        <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                        <a href="https://engineering.ucdenver.edu/departments/computer-science-and-engineering" className="explore_button">Check It Out<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
                                     </div>       
                             </div>
 
@@ -136,11 +136,10 @@ const Qualifications = () => {
 
                         <div className="qualification_data">
                             <div>
-                                <h3 className="qualification_title">UX Designer</h3>
-                                    <span className="qualification_subtitle">Apple Inc - Spain</span>
+                                <h3 className="qualification_title">Lakewood High School</h3>
+                                    <span className="qualification_subtitle">4.2 GPA, Robotics Club, Chess Club, and more</span>
                                         <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2020 - 2021
-                                    <a href="https://crpytalcoder" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
+                                    <i className="uil uil-calendar-alt"></i> 2017 - 2021
                                 </div>       
                             </div>  
 
@@ -155,19 +154,6 @@ const Qualifications = () => {
 
                             <div></div>
 
-                            <div>
-                                <span className="qualification_rounder"></span>
-                                <span className="qualification_line"></span>
-                            </div>
-                        <div>
-                            <h3 className="qualification_title">Web Designer</h3>
-                                <span className="qualification_subtitle">Figma - Spain </span>
-                                    <div className="qualification_calender">
-
-                                        <i className="uil uil-calendar-alt"></i> 2018 - 2020
-                                        <a href="https://crpytalcoder" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
-                                    </div>       
-                            </div>
                             <div>
 
                             </div>
