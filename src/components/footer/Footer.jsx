@@ -20,18 +20,20 @@ const Footer = () => {
                     </li>
 
                 </ul>
-
                 <div className="footer_social">
                 <a href="" className="footer_social-link" target="_blank">
                 <i class="bx bxl-facebook"></i>
-            </a>
+                </a>
 
-            <a href="" className="footer_social-link" target="_blank">
-                <i class="bx bxl-twitter"></i>
-            </a>
+
+           
 
             <a href="" className="footer_social-link" target="_blank">
                 <i class="bx bxl-instagram"></i>
+            </a>
+
+            <a href="https://github.com/JoshuaDeckard" className="footer_social-link" target="_blank">
+                <i class="bx bxl-github"></i>
             </a>
                 </div>
 

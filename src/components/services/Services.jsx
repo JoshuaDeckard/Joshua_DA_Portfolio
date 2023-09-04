@@ -92,7 +92,7 @@ const Services = () => {
                                 <li className="services_modal-service">
                                     <i className="uil uil-check-circle services_modal-icon">
                                         <p className="services_modal-info">
-                                        Successfully completed over 15 professional projects, spanning a diverse range of domains like commerce and social media platforms
+                                        Successfully completed over 12 projects, spanning a diverse range of domains like commerce and social media platforms
                                         </p>
                                     </i>
                                 </li>
@@ -137,14 +137,14 @@ const Services = () => {
                             <i onClick={()=> toggleTab(0)} className="uil uil-times services_modal-close"></i>
 
                             <h3 className="services_modal-title">Backend Developer</h3>
-                            <p className="services_modal-description">Experience in backend development with 5+ projects demonstrating proficiency in designing, 
-                            implementing, and optimizing server-side solutions. </p>
+                            <p className="services_modal-description">Experience in backend development with multiple projects demonstrating proficiency in designing
+                            implementing server-side solutions. </p>
 
                             <ul className="services_modal-services grid">
                                 <li className="services_modal-service">
                                     <i className="uil uil-check-circle services_modal-icon">
                                         <p className="services_modal-info">
-                                            Experience generating SSH keys to ensure server protection from attacks
+                                        Experience generating SSH keys and using environment variables to ensure server protection                                       
                                         </p>
                                     </i>
                                 </li>
@@ -160,15 +160,7 @@ const Services = () => {
                                 <li className="services_modal-service">
                                     <i className="uil uil-check-circle services_modal-icon">
                                         <p className="services_modal-info">
-                                        Experienced in Database management tools like MySQL and ORM
-                                        </p>
-                                    </i>
-                                </li>
-
-                                <li className="services_modal-service">
-                                    <i className="uil uil-check-circle services_modal-icon">
-                                        <p className="services_modal-info">
-                                        Familiarity with asynchronous programming, message queues, and background processing
+                                            Knowledge of Bash and Linode deployment techniques 
                                         </p>
                                     </i>
                                 </li>

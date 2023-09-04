@@ -1,6 +1,7 @@
 import React, {useRef} from "react";
 import "./contact.css"
 import emailjs from '@emailjs/browser'
+import { Icon } from "@iconify/react";
 
 
 
@@ -22,7 +23,7 @@ const Contact = () => {
 
             <div className="contact_container container grid">
                 <div className="contact_content">
-                    <h3 className="contact_title">Talk to me</h3>
+                    <h3 className="contact_title">Contact Info</h3>
 
                     <div className="contact_info">
                         <div className="contact_card">
@@ -34,17 +35,16 @@ const Contact = () => {
                         </div>
 
                         <div className="contact_card">
-                            <i className="bx bxl-whatsapp contact_card-icon"></i>
-
+                            <Icon icon="ic:baseline-phone" className="contact_card-icon"/>
                             <h3 className="contact_card-title">Phone</h3>
                             <span className="contact_card-data">303-918-2169</span>
 
                         </div>
 
                         <div className="contact_card">
-                            <i className="bx bxl-LinkedIn contact_card-icon"></i>
+                            <Icon icon="uil:linkedin" className="contact_card-icon" />
 
-                            <h3 className="contact_card-title">LinkedIn</h3>
+                            <h3 className="contact_card-title ">LinkedIn</h3>
                             <span className="contact_card-data">Joshua Deckard-Anderson</span>
                             <a href="https://www.linkedin.com/in/joshua-deckard-anderson-924640237/" className="contact_button">Profile <i className="bx bx-right-arrow-alt contact_button-icon"></i></a>
 

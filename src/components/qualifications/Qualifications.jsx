@@ -54,30 +54,6 @@ const Qualifications = () => {
                         </div>
 
                         <div className="qualification_data">
-                            <div>
-                                <h3 className="qualification_title">Freelance Website</h3>
-                                    <span className="qualification_subtitle">Denver - Colorado</span>
-                                        <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2023
-                                    <a href="https://crpytalcoder" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
-                                </div>       
-                            </div>  
-
-                            <div>
-                                <span className="qualification_rounder"></span>
-                                <span className="qualification_line"></span>
-
-                            </div>                
-                        </div>
-
-                        <div className="qualification_data">
-
-                            <div></div>
-
-                            <div>
-                                <span className="qualification_rounder"></span>
-                                <span className="qualification_line"></span>
-                            </div>
                         <div>
                             <h3 className="qualification_title">Real Estate Website</h3>
                                 <span className="qualification_subtitle">Denver - Colorado</span>
@@ -90,24 +66,29 @@ const Qualifications = () => {
                             </div>
 
                             <div>
-                            </div>
-                        </div>
-
-                        <div className="qualification_data">
-                            <div>
-                                <h3 className="qualification_title">Social Media Web App</h3>
-                                    <span className="qualification_subtitle">Denver - Colorado</span>
-                                        <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2023
-                                    <a href="https://github.com/JoshuaDeckard/Django-Social-Media-Webapp/blob/main/README.md" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
-                                </div>       
-                            </div>  
-
-                            <div>
                                 <span className="qualification_rounder"></span>
                                 <span className="qualification_line"></span>
 
                             </div>                
+                        </div>
+
+                        <div className="qualification_data">
+                            <div></div>
+                            <div>
+                                <span className="qualification_rounder"></span>
+                                <span className="qualification_line"></span>
+
+                            </div>      
+
+                            <div>
+                            <h3 className="qualification_title">Social Media Webapp</h3>
+                                <span className="qualification_subtitle">Denver - Colorado</span>
+                                    <div className="qualification_calender">
+
+                                        <i className="uil uil-calendar-alt"></i> 2023
+                                        <a href="https://github.com/JoshuaDeckard/Django-Social-Media-Webapp" className="explore_button">Explore this project<i className="bx bx-right-arrow-alt qualification_button-icon"></i></a>
+                                    </div>       
+                            </div>          
                         </div>
                     </div>
 
