@@ -48,13 +48,14 @@
     display: inline-flex;
 }
 
+
 .footer_social-link:hover{
     background-color: var(--title-color-dark);
 }
 
 .footer_copy{
     display: block;
-    margin-top: 4.5rem;
+    margin-top: 3.0rem;
     color: var(--title-color);
     text-align: center;
     font-size: var(--smaller-font-size);
