@@ -12,7 +12,7 @@ const Frontend = () =>{
 
                         <div>
                             <h3 className="skills_name">HTML</h3>
-                            <span className="skills_level">2+ years</span>
+                            <span className="skills_level">&lt;1 year</span>
                         </div>
                     </div>
 
@@ -21,7 +21,7 @@ const Frontend = () =>{
 
                         <div>
                             <h3 className="skills_name">Javascript</h3>
-                            <span className="skills_level">2+ years</span>
+                            <span className="skills_level">&lt;1 years</span>
 
 
                         </div>
@@ -32,7 +32,7 @@ const Frontend = () =>{
 
                         <div>
                             <h3 className="skills_name">Bootstrap</h3>
-                            <span className="skills_level">1+ years</span>
+                            <span className="skills_level">&lt;1 year</span>
 
                         </div>
                     </div>
@@ -46,7 +46,7 @@ const Frontend = () =>{
 
                         <div>
                             <h3 className="skills_name">CSS</h3>
-                            <span className="skills_level">2+ years</span>
+                            <span className="skills_level">&lt;1 year</span>
 
                         </div>
                     </div>
@@ -56,7 +56,7 @@ const Frontend = () =>{
 
                         <div>
                             <h3 className="skills_name">Tailwind</h3>
-                            <span className="skills_level">1+ years</span>
+                            <span className="skills_level">&lt;1 year</span>
 
                         </div>
                     </div>
@@ -66,7 +66,7 @@ const Frontend = () =>{
 
                         <div>
                             <h3 className="skills_name">React</h3>
-                            <span className="skills_level">1+ years</span>
+                            <span className="skills_level">&lt;1 year</span>
                         </div>
                     </div>
 

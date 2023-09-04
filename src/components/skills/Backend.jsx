@@ -12,7 +12,7 @@ const Backend = () =>{
 
                         <div>
                             <h3 className="skills_name">Python</h3>
-                            <span className="skills_level">2+ years</span>
+                            <span className="skills_level">&lt;2 years</span>
                         </div>
                     </div>
 
@@ -21,7 +21,7 @@ const Backend = () =>{
 
                         <div>
                             <h3 className="skills_name">Django</h3>
-                            <span className="skills_level">1 year</span>
+                            <span className="skills_level">&lt;1 year</span>
 
 
                         </div>
@@ -32,7 +32,7 @@ const Backend = () =>{
 
                         <div>
                             <h3 className="skills_name">Git</h3>
-                            <span className="skills_level">1+ years</span>
+                            <span className="skills_level">&lt;1 years</span>
 
                         </div>
                     </div>
@@ -56,7 +56,7 @@ const Backend = () =>{
 
                         <div>
                             <h3 className="skills_name">Github</h3>
-                            <span className="skills_level">1+ years</span>
+                            <span className="skills_level">&lt;1 year</span>
 
                         </div>
                     </div>
@@ -66,7 +66,7 @@ const Backend = () =>{
 
                         <div>
                             <h3 className="skills_name">Node.js</h3>
-                            <span className="skills_level">1+ years</span>
+                            <span className="skills_level">&lt;1 years</span>
                         </div>
                     </div>
 
